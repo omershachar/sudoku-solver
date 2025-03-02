@@ -1,2 +1,2 @@
-# SudokuSolver
+# sudoku-solver
 Pretty self explanatory...
